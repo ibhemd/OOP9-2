@@ -1,5 +1,3 @@
-import java.util.concurrent.LinkedBlockingDeque;
-
 public class STRGFSTRGV {
     public static String replace(String source, String search, String replace) {
         int pos = source.indexOf(search);
